@@ -2,7 +2,7 @@
   <img height="350" alt="let's all love lain" src="https://github.com/user-attachments/assets/ac073373-ba38-493a-a60e-a7cda6e6dee5" />
 </div>
 
-# Oh, Hello! I'm Kauê Rocha 👋
+# Oh, Hello! I'm Helena Rocha 👋
 
 **Data Scientist & Fullstack Developer** — Florianópolis, Brazil
 
