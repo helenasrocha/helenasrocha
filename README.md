@@ -10,9 +10,9 @@ Machine learning, time series forecasting, and generative AI applied to real-wor
 problems. Currently building multi-agent RAG pipelines with LangChain for the
 Brazilian energy sector at IFSC/FEESC.
 
-[LinkedIn](https://linkedin.com/in/kauesrocha) ·
-[Email](mailto:kauedossantosrocha@gmail.com) ·
-[Resume](https://kauer.github.io/kauer/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/helenasrocha/) ·
+[Email](mailto:helenadossantosrocha@protonmail.com) ·
+[Resume](https://helenasrocha.github.io/helenasrocha/resume.pdf)
 
 ---
 
